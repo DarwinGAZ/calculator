@@ -2,7 +2,9 @@
 
 Uma calculadora simples feita com HTML, CSS e JavaScript puro. Permite realizar operações básicas com clique nos botões e entrada pelo teclado.
 
----
+## 🚀 Acesse o projeto online
+
+🔗 [Clique aqui para testar](https://darwingaz.github.io/calculator/)
 
 ## ⚙️ Funcionalidades
 
